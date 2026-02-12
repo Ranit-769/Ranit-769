@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranit Das</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranit-769&label=Profile%20views&color=0e75b6&style=flat" alt="ranit-769" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranit-769&label=Profile%20views&color=0e75b6&style=flat" alt="ranit-769" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranit-769" alt="ranit-769" /></a> </p>
 

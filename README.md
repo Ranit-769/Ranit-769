@@ -2,7 +2,8 @@
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranit-769&label=Profile%20views&color=0e75b6&style=flat" alt="ranit-769" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ranit-769&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ranit-769&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranit-769&theme=gruvbox)" alt="ranit-769" /></a> </p>
 
 
 - 📫 How to reach me **ranitdas739@gmail.com**
